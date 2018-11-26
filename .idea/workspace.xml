@@ -1,0 +1,705 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f6e6164a-7d26-4d5f-9676-209304fe33c6" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-1558025080">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="1" />
+          <entry key="project.open.time.1" value="2" />
+          <entry key="project.open.time.252" value="1" />
+          <entry key="project.open.time.46" value="1" />
+          <entry key="project.open.time.48" value="1" />
+          <entry key="project.open.time.59" value="1" />
+          <entry key="project.opened" value="6" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="css" value="6" />
+          <entry key="dummy" value="8" />
+          <entry key="html" value="159" />
+          <entry key="js" value="87" />
+          <entry key="py" value="88" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="CSS" value="6" />
+          <entry key="HTML" value="159" />
+          <entry key="JavaScript" value="87" />
+          <entry key="PLAIN_TEXT" value="8" />
+          <entry key="Python" value="88" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="css" value="5" />
+          <entry key="html" value="13" />
+          <entry key="js" value="23" />
+          <entry key="py" value="31" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="CSS" value="5" />
+          <entry key="HTML" value="13" />
+          <entry key="JavaScript" value="23" />
+          <entry key="Python" value="31" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/static/components/docsui/components/registeruser/views/registeruser.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-315">
+              <caret line="3" column="15" selection-start-line="3" selection-start-column="15" selection-end-line="3" selection-end-column="15" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/static/components/docsui/components/registeruser/registeruserController/registeruserController.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="43" selection-start-column="43" selection-end-column="43" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/docadmin/registeruser/registerusercontroller/registerusercontroller.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1125">
+              <caret line="75" column="47" selection-start-line="75" selection-start-column="47" selection-end-line="75" selection-end-column="47" />
+              <folding>
+                <element signature="e#0#11#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/lordofring/settings.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="394">
+              <caret line="83" column="28" lean-forward="true" selection-start-line="83" selection-start-column="28" selection-end-line="83" selection-end-column="28" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/docadmin/registeruser/registeruserservice/registeruserservice.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-441">
+              <caret line="70" column="8" selection-start-line="70" selection-start-column="8" selection-end-line="70" selection-end-column="8" />
+              <folding>
+                <element signature="e#0#40#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>admin</find>
+      <find>adminApp</find>
+      <find>registerPassForm</find>
+      <find>Scope</find>
+      <find>projectAssignScope</find>
+      <find>api/login</find>
+      <find>userLoginScope.login</find>
+      <find>registerUserForm</find>
+      <find>registerUserScope.userName</find>
+      <find>registerUserScope.saveUser</find>
+      <find>userRegisterService</find>
+      <find>registerUser</find>
+      <find>api/saveuser/</find>
+      <find>userLoginScope</find>
+      <find>ezedocsApp.uploadpdf</find>
+      <find>registerUserScope</find>
+      <find>pdfScope.delPdf</find>
+      <find>coun</find>
+      <find>ezedocsPdfUpload</find>
+      <find>pswd</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>registerPassForm</replace>
+      <replace>forgotPassForm</replace>
+      <replace>userLoginScope</replace>
+      <replace>registerUserScope</replace>
+      <replace>addUserForm</replace>
+      <replace>editUserForm</replace>
+      <replace>pdfScope</replace>
+      <replace>docsUpload</replace>
+    </replaceStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/static/components/ezedocsui/components/dashboard/dashboardService/dashboardService.js" />
+        <option value="$PROJECT_DIR$/static/components/ezedocsui/components/dashboard/dashboardController/dashboardController.js" />
+        <option value="$PROJECT_DIR$/static/components/ezedocsui/components/registeruser/views/addUsers.html" />
+        <option value="$PROJECT_DIR$/static/components/ezedocsui/components/login/loginController/loginController.js" />
+        <option value="$PROJECT_DIR$/ezeadmin/login/loginService/loginService.py" />
+        <option value="$PROJECT_DIR$/ezedox/urls.py" />
+        <option value="$PROJECT_DIR$/ezeadmin/views.py" />
+        <option value="$PROJECT_DIR$/static/components/ezedocsui/components/registeruser/views/registeruser.html" />
+        <option value="$PROJECT_DIR$/ezeadmin/registeruser/registerusercontroller/registerusercontroller.py" />
+        <option value="$PROJECT_DIR$/static/components/ezedocsui/components/registeruser/registeruserService/registeruserService.js" />
+        <option value="$PROJECT_DIR$/static/components/ezedocsui/components/registeruser/registeruserController/registeruserController.js" />
+        <option value="$PROJECT_DIR$/static/components/ezedocsui/components/uploadpdf/ezedocsApp.uploadpdf.js" />
+        <option value="$PROJECT_DIR$/static/components/ezedocsui/ezedocsApp.js" />
+        <option value="$PROJECT_DIR$/ezeadmin/urls.py" />
+        <option value="$PROJECT_DIR$/static/components/ezedocsui/components/uploadpdf/pdfService/pdfService.js" />
+        <option value="$PROJECT_DIR$/ezeadmin/uploadpdf/uploadpdfController/uploadpdfController.py" />
+        <option value="$PROJECT_DIR$/static/components/ezedocsui/components/uploadpdf/pdfController/pdfController.js" />
+        <option value="$PROJECT_DIR$/static/components/ezedocsui/components/registeruser/views/listusers.html" />
+        <option value="$PROJECT_DIR$/static/components/ezedocsui/components/registeruser/views/edituser.html" />
+        <option value="$PROJECT_DIR$/ezeadmin/registeruser/registeruserservice/registeruserservice.py" />
+        <option value="$PROJECT_DIR$/static/components/ezedocsui/components/dashboard/views/dashboard.html" />
+        <option value="$PROJECT_DIR$/static/components/ezedocsui/components/uploadpdf/views/uploadpdf.html" />
+        <option value="$PROJECT_DIR$/static/components/ezedocsui/components/uploadpdf/views/listpdf.html" />
+        <option value="$PROJECT_DIR$/static/components/ezedocsui/views/index.html" />
+        <option value="$PROJECT_DIR$/ezedox/settings.py" />
+        <option value="$PROJECT_DIR$/ezeadmin/uploadpdf/uploadpdfService/uploadpdfService.py" />
+        <option value="$PROJECT_DIR$/ezeadmin/models.py" />
+        <option value="$PROJECT_DIR$/docadmin/uploadfile/uploadpdfController/uploadpdfController.py" />
+        <option value="$PROJECT_DIR$/docadmin/uploadfile/uploadFileController/uploadFileController.py" />
+        <option value="$PROJECT_DIR$/static/components/docsui/components/login/views/login.html" />
+        <option value="$PROJECT_DIR$/static/components/docsui/components/uploadpdf/ezedocsApp.uploadpdf.js" />
+        <option value="$PROJECT_DIR$/static/components/docsui/components/registeruser/registeruser.js" />
+        <option value="$PROJECT_DIR$/static/components/docsui/components/login/userLogin.js" />
+        <option value="$PROJECT_DIR$/static/components/docsui/components/dashboard/ezedocsApp.dashboard.js" />
+        <option value="$PROJECT_DIR$/static/components/docsui/docsApp.js" />
+        <option value="$PROJECT_DIR$/static/components/docsui/views/index.html" />
+        <option value="$PROJECT_DIR$/static/components/docsui/components/registeruser/docsApp.registeruser.js" />
+        <option value="$PROJECT_DIR$/static/components/docsui/components/login/docsApp.userLogin.js" />
+        <option value="$PROJECT_DIR$/static/components/docsui/components/uploadpdf/docsApp.uploadpdf.js" />
+        <option value="$PROJECT_DIR$/static/components/docsui/components/dashboard/views/dashboard.html" />
+        <option value="$PROJECT_DIR$/static/components/docsui/components/registeruser/views/listusers.html" />
+        <option value="$PROJECT_DIR$/docadmin/uploadfile/uploadFileService/uploadFileService.py" />
+        <option value="$PROJECT_DIR$/static/components/docsui/components/registeruser/views/edituser.html" />
+        <option value="$PROJECT_DIR$/static/components/docsui/components/registeruser/registeruserService/registeruserService.js" />
+        <option value="$PROJECT_DIR$/docadmin/models.py" />
+        <option value="$PROJECT_DIR$/static/components/css/ezedocstyle.css" />
+        <option value="$PROJECT_DIR$/static/components/docsui/components/registeruser/views/registeruser.html" />
+        <option value="$PROJECT_DIR$/static/components/docsui/components/registeruser/registeruserController/registeruserController.js" />
+        <option value="$PROJECT_DIR$/docadmin/registeruser/registerusercontroller/registerusercontroller.py" />
+        <option value="$PROJECT_DIR$/docadmin/registeruser/registeruserservice/registeruserservice.py" />
+        <option value="$PROJECT_DIR$/lordofring/settings.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="75" />
+    <option name="y" value="-4" />
+    <option name="width" value="1279" />
+    <option name="height" value="724" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Document-Management-Application" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Document-Management-Application" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Document-Management-Application" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Document-Management-Application" type="462c0819:PsiDirectoryNode" />
+              <item name="docadmin" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Document-Management-Application" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Document-Management-Application" type="462c0819:PsiDirectoryNode" />
+              <item name="static" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Document-Management-Application" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Document-Management-Application" type="462c0819:PsiDirectoryNode" />
+              <item name="static" type="462c0819:PsiDirectoryNode" />
+              <item name="dist" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/static" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/static/components/admin/components/registeruser/view" />
+      <recent name="$PROJECT_DIR$/static/components/admin/components/login/view" />
+      <recent name="$PROJECT_DIR$/ezeadmin" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="dox" type="PythonConfigurationType" factoryName="Python">
+      <module name="ezedox" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/manage.py" />
+      <option name="PARAMETERS" value="runserver" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f6e6164a-7d26-4d5f-9676-209304fe33c6" name="Default" comment="" />
+      <created>1524855903788</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1524855903788</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="65" y="24" width="1301" height="744" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25273865" />
+      <window_info id="Structure" order="1" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32972136" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.23684211" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.36532506" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Python Console" order="8" />
+      <window_info anchor="bottom" id="Terminal" order="9" />
+      <window_info anchor="bottom" id="Version Control" order="10" show_stripe_button="false" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25273865" />
+      <window_info id="Structure" order="1" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32972136" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.23684211" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.36532506" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Python Console" order="8" />
+      <window_info anchor="bottom" id="Terminal" order="9" />
+      <window_info anchor="bottom" id="Version Control" order="10" show_stripe_button="false" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout-to-restore>
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.js" />
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.css" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <default-breakpoints>
+        <breakpoint type="python-exception">
+          <properties notifyOnTerminate="true" exception="BaseException">
+            <option name="notifyOnTerminate" value="true" />
+          </properties>
+        </breakpoint>
+      </default-breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="evaluateExpression">
+      <expression>
+        <expression-string>len(password)</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>err</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>id</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>pdfFile</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>pdfFile.</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>pdfFile.content_type</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>pdfFile.name</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>list(getqry).__len__()</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>list(getqry)</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/static/components/ezedocsui/components/businessunitmaster/views/editbusinessunit.html" />
+    <entry file="file://$PROJECT_DIR$/static/components/ezedocsui/components/businessunitmaster/businessUnitMasterController/businessUnitMasterController.js" />
+    <entry file="file://$PROJECT_DIR$/static/components/docsui/components/dashboard/dashboardController/dashboardController.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="9" column="42" selection-start-line="9" selection-start-column="42" selection-end-line="9" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/components/ezedocsui/components/projectAssign/views/projManagerAssign.html" />
+    <entry file="file://$PROJECT_DIR$/static/components/ezedocsui/components/registeruser/views/addUsers.html" />
+    <entry file="file://$PROJECT_DIR$/../venv/local/lib/python2.7/site-packages/django/conf/urls/__init__.py" />
+    <entry file="file://$PROJECT_DIR$/static/components/docsui/components/login/loginService/loginService.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="18" column="29" selection-start-line="18" selection-start-column="20" selection-end-line="18" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docadmin/login/loginService/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lordofring/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lordofring/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="19" column="15" lean-forward="true" selection-start-line="19" selection-start-column="15" selection-end-line="19" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/components/docsui/components/dashboard/dashboardService/dashboardService.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="6" column="19" lean-forward="true" selection-start-line="6" selection-start-column="19" selection-end-line="6" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../venv/local/lib/python2.7/site-packages/rest_framework/decorators.py" />
+    <entry file="file://$PROJECT_DIR$/static/components/docsui/components/uploadpdf/pdfController/pdfController.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="82">
+          <caret line="47" column="40" selection-start-line="47" selection-start-column="40" selection-end-line="47" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/components/docsui/components/uploadpdf/pdfService/pdfService.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="20" column="20" selection-start-line="20" selection-start-column="14" selection-end-line="20" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/components/docsui/components/uploadpdf/views/uploadpdf.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="327">
+          <caret line="36" column="112" lean-forward="true" selection-start-line="36" selection-start-column="4" selection-end-line="36" selection-end-column="112" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/components/docsui/components/uploadpdf/views/listpdf.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="36">
+          <caret line="2" column="55" selection-start-line="2" selection-start-column="55" selection-end-line="2" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docadmin/login/loginController/loginController.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="169">
+          <caret line="27" column="34" selection-start-line="27" selection-start-column="26" selection-end-line="27" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docadmin/uploadfile/uploadFileService/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docadmin/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="58" selection-start-line="4" selection-start-column="53" selection-end-line="4" selection-end-column="73" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docadmin/uploadfile/uploadFileController/uploadFileController.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" column="30" selection-start-line="18" selection-start-column="30" selection-end-line="18" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/components/docsui/components/login/views/login.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret lean-forward="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/components/docsui/components/registeruser/docsApp.registeruser.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="5" selection-start-line="2" selection-start-column="5" selection-end-line="2" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/components/docsui/components/dashboard/views/dashboard.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="15" selection-start-line="6" selection-start-column="15" selection-end-line="6" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/components/docsui/components/login/docsApp.userLogin.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="5" selection-start-line="1" selection-start-column="5" selection-end-line="1" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/components/docsui/views/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="188">
+          <caret line="138" column="65" lean-forward="true" selection-start-line="138" selection-start-column="65" selection-end-line="138" selection-end-column="65" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/components/docsui/components/dashboard/docsApp.dashboard.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="16" lean-forward="true" selection-start-column="16" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/components/docsui/components/uploadpdf/docsApp.uploadpdf.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="5" selection-start-line="1" selection-start-column="5" selection-end-line="1" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/components/docsui/docsApp.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="23" selection-start-column="16" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docadmin/migrations/0001_initial.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docadmin/migrations/0002_auto_20180429_1111.py" />
+    <entry file="file://$PROJECT_DIR$/docadmin/migrations/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docadmin/migrations/0003_auto_20180429_1336.py" />
+    <entry file="file://$PROJECT_DIR$/docadmin/apps.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docadmin/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="5" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docadmin/admin.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/components/docsui/components/registeruser/views/edituser.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="21" column="5" selection-start-line="21" selection-start-column="5" selection-end-line="21" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/components/docsui/components/registeruser/views/listusers.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docadmin/uploadfile/uploadFileService/uploadFileService.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="28">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/bower_components/bower_components/zxcvbn/dist/zxcvbn.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1260">
+          <caret line="4" column="977" lean-forward="true" selection-start-line="4" selection-start-column="977" selection-end-line="4" selection-end-column="977" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lordofring/wsgi.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/components/docsui/components/login/views/forgotpassword.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="279">
+          <caret line="21" selection-start-line="17" selection-end-line="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/components/docsui/components/login/loginController/loginController.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1003">
+          <caret line="18" column="13" selection-start-line="18" selection-end-line="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docadmin/login/loginService/loginService.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-600">
+          <caret line="2" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docadmin/models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="23" lean-forward="true" selection-start-column="23" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/components/docsui/components/registeruser/registeruserService/registeruserService.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="435">
+          <caret line="29" selection-start-line="29" selection-end-line="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/components/css/ezedocstyle.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="529">
+          <caret line="314" column="1" selection-start-line="314" selection-start-column="1" selection-end-line="314" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/components/docsui/components/registeruser/views/registeruser.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-315">
+          <caret line="3" column="15" selection-start-line="3" selection-start-column="15" selection-end-line="3" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/components/docsui/components/registeruser/registeruserController/registeruserController.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="43" selection-start-column="43" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docadmin/registeruser/registeruserservice/registeruserservice.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-441">
+          <caret line="70" column="8" selection-start-line="70" selection-start-column="8" selection-end-line="70" selection-end-column="8" />
+          <folding>
+            <element signature="e#0#40#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docadmin/registeruser/registerusercontroller/registerusercontroller.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1125">
+          <caret line="75" column="47" selection-start-line="75" selection-start-column="47" selection-end-line="75" selection-end-column="47" />
+          <folding>
+            <element signature="e#0#11#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lordofring/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="394">
+          <caret line="83" column="28" lean-forward="true" selection-start-line="83" selection-start-column="28" selection-end-line="83" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

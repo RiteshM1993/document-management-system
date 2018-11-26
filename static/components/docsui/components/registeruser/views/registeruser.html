@@ -1,0 +1,140 @@
+
+<div class="register-box">
+  <div class="register-logo">
+    <b>DOCS</b>
+  </div>
+
+  <div class="register-box-body bdr-all">
+    <p class="login-box-msg">Register a new membership</p>
+
+    <form role="form" name="registerUserForm" ng-submit="submitForm(registerUserForm.$valid)" novalidate>
+      <div class="form-group has-feedback">
+        <input type="text" class="form-control" placeholder="Full name" ng-model="registerUserScope.userName" name="userName" ng-required="true">
+        <span class="glyphicon glyphicon-user form-control-feedback"></span>
+      </div>
+      <p ng-show="registerUserForm.userName.$invalid && !registerUserForm.userName.$pristine" class="help-block">Username is required.</p>
+
+      <div class="form-group has-feedback">
+        <input type="email" class="form-control" placeholder="Email" name="userEmail" ng-model="registerUserScope.userEmail" ng-required="true">
+        <span class="glyphicon glyphicon-envelope form-control-feedback"></span>
+      </div>
+      <p ng-show="registerUserForm.userEmail.$invalid && !registerUserForm.userEmail.$pristine" class="help-block">User's Email is required.</p>
+
+<div class="form-group has-feedback">
+        <input type="password" class="form-control" placeholder="Password" id="password" name="password"  pattern="(?=.*\d)(?=.*[a-z])(?=.*[A-Z]).{8,}" title="Must contain at least one number and one uppercase and lowercase letter, and at least 8 or more characters" ng-model="registerUserScope.password" ng-required="true" ng-minlength="8" maxlength="15">
+        <span class="glyphicon glyphicon-clock form-control-feedback"></span>
+    <!--<div class="form-hint">To conform with our Strong Password policy, you are-->
+                        <!--required to use a sufficiently strong password. Password must be more than-->
+                        <!--7 characters.</div>-->
+    <!--<div class="label password-count" ng-class="password.length > 7 ? 'label-success' : 'label-danger'"-->
+    <!--ng-cloak>{{ password | passwordCount:7 }}</div>-->
+
+    <!--<div class="strength-meter">-->
+    <!--<div class="strength-meter-fill" data-strength="{{passwordStrength}}"></div>-->
+    <!--</div>-->
+      <!--</div>-->
+    <!--<ul id="strength" check-strength="registerUserScope.password"></ul>-->
+
+      <p ng-show="registerUserForm.password.$invalid && !registerUserForm.password.$pristine" class="help-block">Password is required.</p>
+<div id="message">
+  <h3>Password must contain the following:</h3>
+  <p id="letter" class="invalid">A <b>lowercase</b> letter</p>
+  <p id="capital" class="invalid">A <b>capital (uppercase)</b> letter</p>
+  <p id="number" class="invalid">A <b>number</b></p>
+  <p id="length" class="invalid">Minimum <b>8 characters</b></p>
+</div>
+      <div class="row">
+           <div class="col-xs-8">
+          <div class="checkbox icheck">
+            <label>
+              <!--<input type="checkbox"> I agree to the <a href="#">terms</a>-->
+            </label>
+          </div>
+        </div>
+        <!-- /.col -->
+        <div class="col-xs-4">
+          <button type="submit" value="var strength = {
+  colors: ['#F00', '#F90', '#FF0', '#9F0', '#0F0'],
+  mesureStrength: function (p) {
+    // return the evaluated strength of the password
+  },
+  getColor: function (s) {
+    /*
+      return an object with the format:
+      obj = { idx: strengthLevel, col: 'color' }
+    */
+  }
+};Submit" ng-click="registerUserScope.saveUser()" ng-disabled="registerUserForm.$invalid" class="btn btn-primary btn-block btn-flat">Register</button>
+        </div>
+        <!-- /.col -->
+      </div>
+    </form>
+
+    <a ui-sref="login" class="text-center">I already have a membership</a>
+
+    <div ng-show="registerUserScope.successmsg" class="m-b-0 m-t-10 well well-sm alert alert-success text-center">User is registered. <a ui-sref="login"> Click to go to login page</a> </div>
+    <div ng-show="registerUserScope.errormsg"  class=" m-b-0 m-t-10  well well-sm alert alert-danger text-center">User is not registered. Please try again.</a> </div>
+
+  </div>
+  <!-- /.form-box -->
+</div>
+
+<script>
+var myInput = document.getElementById("password");
+var letter = document.getElementById("letter");
+var capital = document.getElementById("capital");
+var number = document.getElementById("number");
+var length = document.getElementById("length");
+
+// When the user clicks on the password field, show the message box
+myInput.onfocus = function() {
+    document.getElementById("message").style.display = "block";
+}
+
+// When the user clicks outside of the password field, hide the message box
+myInput.onblur = function() {
+    document.getElementById("message").style.display = "none";
+}
+
+// When the user starts to type something inside the password field
+myInput.onkeyup = function() {
+  // Validate lowercase letters
+  var lowerCaseLetters = /[a-z]/g;
+  if(myInput.value.match(lowerCaseLetters)) {
+    letter.classList.remove("invalid");
+    letter.classList.add("valid");
+  } else {
+    letter.classList.remove("valid");
+    letter.classList.add("invalid");
+  }
+
+  // Validate capital letters
+  var upperCaseLetters = /[A-Z]/g;
+  if(myInput.value.match(upperCaseLetters)) {
+    capital.classList.remove("invalid");
+    capital.classList.add("valid");
+  } else {
+    capital.classList.remove("valid");
+    capital.classList.add("invalid");
+  }
+
+  // Validate numbers
+  var numbers = /[0-9]/g;
+  if(myInput.value.match(numbers)) {
+    number.classList.remove("invalid");
+    number.classList.add("valid");
+  } else {
+    number.classList.remove("valid");
+    number.classList.add("invalid");
+  }
+
+  // Validate length
+  if(myInput.value.length >= 8) {
+    length.classList.remove("invalid");
+    length.classList.add("valid");
+  } else {
+    length.classList.remove("valid");
+    length.classList.add("invalid");
+  }
+}
+</script>
